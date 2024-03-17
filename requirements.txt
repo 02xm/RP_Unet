@@ -1,1 +1,5 @@
-albumentations
+albumentations  
+torch  
+matplotlib  
+sklearn  
+opencv-python
