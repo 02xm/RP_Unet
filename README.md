@@ -10,5 +10,6 @@ fps.py allows you to calcate the fps of your model.
 draw.py, summary_accuracy.py, summary_loss.py and summary_accuracy.py can draw some necessary picture of training process.  
 metrics.py stores some evalution index, you can add with your need.  
 pixelShuffle.py has the pixel shuffle algorithm.  
+rand_augmentation.py has the method to rand augment the picture.  
 val.py can valid the dataset and save as to outputs folder, dataset is divided as training and validing.  
 other .py is utilized as utils.  
